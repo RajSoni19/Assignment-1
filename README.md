@@ -44,7 +44,7 @@ How to Run
 Clone the repository:
 git clone https://github.com/your-repository-link
 Navigate to the desired problem folder:
-cd Task-Management-System
+cd Your-Folder-name
 Run the JavaScript file using Node.js:
 node index.js
 
